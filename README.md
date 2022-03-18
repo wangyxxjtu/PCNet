@@ -11,7 +11,7 @@ The Illustration of PCNet:
 
 The visual comparison of our PCNet and the SOTA methods:
 
-<img src="https://https://github.com/wangyxxjtu/PCNet/blob/master/argue-crop.pdf" width="845" alt="workflow" />
+<img src="https://https://github.com/wangyxxjtu/PCNet/blob/master/example.jpg" width="845" alt="workflow" />
 
 By merging superpixels, some object proposals could be generated:
 
