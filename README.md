@@ -7,11 +7,11 @@ This is is a PyTorch implementation of the superpixel segmentation network intro
 ## Introduction
 The Illustration of PCNet:
 
-<img src="https://github.com/wangyxxjtu/PCNet/blob/master/framework/workflow.png" width="845" alt="workflow" />
+<img src="https://github.com/wangyxxjtu/PCNet/blob/master/workflow-crop.pdf" width="845" alt="workflow" />
 
 The visual comparison of our PCNet and the SOTA methods:
 
-<img src="https://github.com/wangyxxjtu/PCNet/blob/master/framework/superpixel.png" width="845" alt="workflow" />
+<img src="https://github.com/wangyxxjtu/PCNet/blob/master/argue-crop.pdf" width="845" alt="workflow" />
 
 By merging superpixels, some object proposals could be generated:
 
