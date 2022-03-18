@@ -119,8 +119,7 @@ python plot_benchmark_curve.py --path '/home/name/superpixel/PCNet/eval/test_mul
 ## Citation
 If you use our code, please cite our work:
 ``` bash
-{
-@article{wangyx_pcnet,
+{@article{wangyx_pcnet,
   author    = {Yaxiong Wang and
                Yunchao Wei and
                Xueming Qian and
@@ -133,11 +132,7 @@ If you use our code, please cite our work:
   year      = {2021},
   url       = {https://arxiv.org/abs/2108.08607},
   eprinttype = {arXiv},
-  eprint    = {2108.08607},
-  timestamp = {Fri, 27 Aug 2021 14:43:52 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2108-08607.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+  eprint    = {2108.08607}}
 ```
 
 ## Acknowledgement
