@@ -15,7 +15,7 @@ PCNet could process higher-resolution results and its perofrmance could keep up 
 
 The generated superpixels for high-resolution and low-resolution inputs:
 
-<img src="https://github.com/wangyxxjtu/PCNet/blob/master/framework/qualitative_res.png" width="845" alt="workflow" />
+<img src="https://github.com/wangyxxjtu/PCNet/blob/master/qualitative_res.png" width="845" alt="workflow" />
 
 ## Prerequisites
 The training code was mainly developed and tested with python 2.7, PyTorch 0.4.1, CUDA 9, and Ubuntu 16.04.
