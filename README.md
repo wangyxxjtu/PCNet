@@ -11,7 +11,7 @@ The Illustration of PCNet:
 
 PCNet could process higher-resolution results and its perofrmance could keep up with the SOTA method SCN:
 
-<img src="https://github.com/wangyxxjtu/PCNet/blob/master/pcnet_vs_scn.png" width="845" alt="workflow" />
+<img src="https://github.com/wangyxxjtu/PCNet/blob/master/pcnet_vs_scn.png" width="645" alt="workflow" />
 
 The generated superpixels for high-resolution and low-resolution inputs:
 
