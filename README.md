@@ -7,7 +7,7 @@ This is is a PyTorch implementation of the superpixel segmentation network intro
 ## Introduction
 The Illustration of PCNet:
 
-<img src="https://github.com/wangyxxjtu/PCNet/blob/master/workflow-crop.pdf" width="845" alt="workflow" />
+<img src="https://github.com/wangyxxjtu/PCNet/master/workflow-crop.pdf" width="845" alt="workflow" />
 
 The visual comparison of our PCNet and the SOTA methods:
 
